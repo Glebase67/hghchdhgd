@@ -429,7 +429,7 @@ width: 100%;
             <div class="contact-info">
                 <div class="contact-item">
                     <h3>Адрес</h3>
-                    <p>г. Москва, ул. Победы, д. 15</p>
+                    <p>г. Москва, ул. Углическая 17</p>
                 </div>
                 
                 <div class="contact-item">
