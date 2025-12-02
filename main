@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Музей Военной Славы</title>
+    <title>Музей звезды в пустыне</title>
     <style>
         * {
             margin: 0;
