@@ -453,7 +453,6 @@ width: 100%;
                 <a href="#" class="btn">Записаться на экскурсию</a>
             </div>
         </section>
-    </div>
     <footer class="footer">
         <div class="container">
             <p>Музей Звезды в пустыне © 2023</p>
