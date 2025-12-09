@@ -345,7 +345,7 @@ width: 100%;
                 </div>
                 
                 <div class="exhibit">
-                    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200' viewBox='0 0 300 200'><rect width='300' height='200' fill='%23ddd'/><text x='150' y='100' font-family='Arial' font-size='18' fill='%23888' text-anchor='middle'>Награды и знаки отличия</text></svg>" alt="Награды и знаки отличия">
+                    <img width="161" height="245" alt="Image" src="https://github.com/user-attachments/assets/550a097b-aa67-4290-95b5-63f316368c4a" />Награды и знаки отличия</text></svg>" alt="Награды и знаки отличия">
                     <div class="exhibit-content">
                         <h3>Награды и знаки отличия</h3>
                         <p>Уникальная коллекция орденов, медалей и наградных знаков различных исторических периодов.</p>
