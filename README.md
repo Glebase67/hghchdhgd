@@ -345,7 +345,7 @@ width: 100%;
                 </div>
                 
                 <div class="exhibit">
-                    <img width="161" height="245" alt="Image" src="https://github.com/user-attachments/assets/550a097b-aa67-4290-95b5-63f316368c4a" />
+                    <img width="145" height="145" alt="Image" src="https://github.com/user-attachments/assets/550a097b-aa67-4290-95b5-63f316368c4a" />
                     <div class="exhibit-content">
                         <h3>Награды и знаки отличия</h3>
                         <p>Уникальная коллекция орденов, медалей и наградных знаков различных исторических периодов.</p>
