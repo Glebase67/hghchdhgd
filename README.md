@@ -399,7 +399,7 @@ width: 100%;
             <h2>Герои войны</h2>
             <div class="heroes-grid">
                 <div class="hero-card">
-                    <![Image](https://github.com/user-attachments/assets/cb533665-b32d-46a9-b8cc-414c603ff337)>
+                    ![Image](https://github.com/user-attachments/assets/cb533665-b32d-46a9-b8cc-414c603ff337)
                     <h3>Александр Матросов</h3>
                     <p>Закрыл амбразуру дзота своим телом, обеспечив успех атаки.</p>
                 </div>
