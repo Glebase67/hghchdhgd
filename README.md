@@ -405,7 +405,7 @@ width: 100%;
                 </div>
                 
                 <div class="hero-card">
-                    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='250' height='200' viewBox='0 0 250 200'><rect width='250' height='200' fill='%23ddd'/><text x='125' y='100' font-family='Arial' font-size='16' fill='%23888' text-anchor='middle'>Зоя Космодемьянская</text></svg>" alt="Зоя Космодемьянская">
+                  <img src="https://i.imgur.com/YSYtRc5.jpg" alt="Герой Советского Союза Зоя Космодемьянская">
                     <h3>Зоя Космодемьянская</h3>
                     <p>Партизанка, первая женщина - Герой Советского Союза в годы войны.</p>
                 </div>
