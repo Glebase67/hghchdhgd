@@ -399,7 +399,7 @@ width: 100%;
             <h2>Герои войны</h2>
             <div class="heroes-grid">
                 <div class="hero-card">
-                     <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200' viewBox='0 0 300 200'><rect width='300' height='200' fill='%23ddd'/><text x='150' y='100' font-family='Arial' font-size='18' fill='%23888' text-anchor='middle'>Оружие Победы</text></svg>" alt="Оружие Победы">
+                     ![Image](https://github.com/user-attachments/assets/34829afc-b0a7-4d4b-91bf-c091dff6872a)
                     <h3>Александр Матросов</h3>
                     <p>Закрыл амбразуру дзота своим телом, обеспечив успех атаки.</p>
                 </div>
