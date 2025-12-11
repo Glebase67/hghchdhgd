@@ -345,7 +345,7 @@ width: 100%;
                 </div>
                 
                 <div class="exhibit">
-                    <img src="logoSkillbox.png" alt="Логотип Skillbox" width="300" height="500">
+                    <img src=" src="https://github.com/user-attachments/assets/550a097b-aa67-4290-95b5-63f316368c4a" alt="Знаки победы" width="100" height="100">
                     <div class="exhibit-content">
                         <h3>Награды и знаки отличия</h3>
                         <p>Уникальная коллекция орденов, медалей и наградных знаков различных исторических периодов.</p>
