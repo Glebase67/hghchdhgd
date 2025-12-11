@@ -399,13 +399,13 @@ width: 100%;
             <h2>Герои войны</h2>
             <div class="heroes-grid">
                 <div class="hero-card">
-                     ![Image](https://github.com/user-attachments/assets/34829afc-b0a7-4d4b-91bf-c091dff6872a)
+                    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='250' height='200' viewBox='0 0 250 200'><rect width='250' height='200' fill='%23ddd'/><text x='125' y='100' font-family='Arial' font-size='16' fill='%23888' text-anchor='middle'>Иван Кожедуб</text></svg>" alt="Иван Кожедуб"> 
                     <h3>Александр Матросов</h3>
                     <p>Закрыл амбразуру дзота своим телом, обеспечив успех атаки.</p>
                 </div>
                 
                 <div class="hero-card">
-                  <img src="https://i.imgur.com/YSYtRc5.jpg" alt="Герой Советского Союза Зоя Космодемьянская">
+                  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='250' height='200' viewBox='0 0 250 200'><rect width='250' height='200' fill='%23ddd'/><text x='125' y='100' font-family='Arial' font-size='16' fill='%23888' text-anchor='middle'>Иван Кожедуб</text></svg>" alt="Иван Кожедуб">
                     <h3>Зоя Космодемьянская</h3>
                     <p>Партизанка, первая женщина - Герой Советского Союза в годы войны.</p>
                 </div>
